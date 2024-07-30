@@ -58,12 +58,11 @@ h1 {
 .questions {
   display: flex;
   flex-direction: column;
-  gap: 19px;
+  gap: 18px;
 }
 
 .question {
   border-bottom: 1px solid #e8e8ea;
-  padding-bottom: 16px;
 }
 
 .question-wrapper {
@@ -94,6 +93,7 @@ p {
   font-size: 1.3rem;
   line-height: 1.5;
   color: #787887;
+  margin-bottom: 16px;
 }
 
 .active {
