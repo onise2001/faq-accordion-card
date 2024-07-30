@@ -58,7 +58,7 @@ h1 {
 .questions {
   display: flex;
   flex-direction: column;
-  gap: 18px;
+  gap: 15px;
 }
 
 .question {
@@ -66,8 +66,7 @@ h1 {
 }
 
 .question-wrapper {
-  margin-bottom: 13px;
-
+  margin-bottom: 15px;
   display: flex;
   align-items: center;
 }
