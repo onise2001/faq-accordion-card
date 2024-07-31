@@ -88,11 +88,19 @@ h2:active {
   margin-left: auto;
 }
 
+.question:hover {
+  cursor: pointer;
+}
+
 p {
   font-size: 1.3rem;
   line-height: 1.5;
   color: #787887;
   margin-bottom: 16px;
+}
+
+.hide {
+  display: none;
 }
 
 .active {
